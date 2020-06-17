@@ -1,0 +1,19 @@
+.card-style{
+    display: 'flex';
+    flex-direction: row;
+    flex-wrap: wrap ;
+}
+.filterBox{
+    float: left;
+    background-color: white;
+    height: 50px;
+    padding: 0px;
+    margin-left: 2px;
+    clear: both;
+   
+}
+.row {
+    margin-left: 310px;
+    margin-top: 5px;
+    width: auto;
+}

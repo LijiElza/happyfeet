@@ -1,0 +1,22 @@
+.productDisplayBox {
+  text-align: center;
+  margin-top: 20px;
+  width: auto;
+}
+.body{
+background-color: darkgray;
+display: block;
+clear: both;
+padding-left: 50px;
+}
+.filterBox{
+  float: left;
+  background-color: white;
+  height: 50px;
+  padding-left: 20px;
+  padding-top: 20px;
+ 
+}
+.div-inline{
+  display:inline-block;
+}
