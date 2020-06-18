@@ -168,7 +168,7 @@ class ProductDisplay extends React.Component {
                                 <Form inline>
                                     <FormControl type="text" onChange={this.filterWithBrand} placeholder="Search Brand" className="mr-sm-2"  />
                                     <BsSearch ></BsSearch>
-                                    <label style={{color:"grey",fontSize:"0.7rem"}}>ex:-puma,pace,amazon,addiddas</label>
+                                    <label style={{color:"grey",fontSize:"0.7rem"}}>ex:-puma,pace,amazon,addidass</label>
                                 </Form>
                             </span></ListGroup.Item>
                             <ListGroup.Item>
